@@ -1,0 +1,52 @@
+{
+    "image1": {
+        "data": "hwQSABAAAAAAAADAAAAAAAAAABwMAAAAAADAEcsAAAAAABwRuwwAAADAERu7ywAAABy7GxG7DAAAvLwbqhHLAAC8yxuqqrEMALy7HBEREcEAvMsau7urDADMrBqrqsoAALyrGqoRDAAAwLsaGsEAAAAAvBsRDAAAAADAG8EAAAAAAAAcDAAAAAAAAMAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gem"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw/////w8AAH93d3d39wDwZ2ZmZmZ2D39mZhERZmb3f2YWd3dhZvd/ZnF3dxdm938Wd3d3d2H3fxZ3d3d3Yfd/ZnF3dxdm939mFnd3YWb3f2ZmERFmZvfwZ2ZmZmZ2DwB/d3d3d/cAAPD/////DwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "CollectibleGem"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Guide"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAPD///8AAAAALyIiIg8AAAAvIiIiDwAA8P//////DwAvIiIiIiLy8CIiIiIiIvIvIvL/IiIi8i8in5kvIv8PL/KZmfkiDwAv8pmZ+SIPAC/ymZn5Iv8PL/KZmfkiIvLw8pmZ+SIi8gD/mZn5IiLyAACfmf///w8AAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Red Gus"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAPD///8AAAAAj4iIiA8AAACPiIiIDwAA8P//////DwCPiIiIiIj48IiIiIiIiPiPiPj/iIiI+I+In5mPiP8Pj/iZmfmIDwCP+JmZ+YgPAI/4mZn5iP8Pj/iZmfmIiPjw+JmZ+YiI+AD/mZn5iIj4AACfmf///w8AAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blue Gus"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAPD///8AAAAAT0RERA8AAABPREREDwAA8P//////DwBPRERERET08ERERERERPRPRPT/RERE9E9En5lPRP8PT/SZmflEDwBP9JmZ+UQPAE/0mZn5RP8PT/SZmflERPTw9JmZ+URE9AD/mZn5RET0AACfmf///w8AAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Orange Gus"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAPD///8AAAAA7+7u7g8AAADv7u7uDwAA8P//////DwDv7u7u7u7+8O7u7u7u7v7v7v7/7u7u/u/un5nv7v8P7/6ZmfnuDwDv/pmZ+e4PAO/+mZn57v8P7/6Zmfnu7v7w/pmZ+e7u/gD/mZn57u7+AACfmf///w8AAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Brown Gus"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAPD///8AAAAAf3d3dw8AAAB/d3d3DwAA8P//////DwB/d3d3d3f38Hd3d3d3d/d/d/f/d3d39393n5l/d/8Pf/eZmfl3DwB/95mZ+XcPAH/3mZn5d/8Pf/eZmfl3d/fw95mZ+Xd39wD/mZn5d3f3AACfmf///w8AAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Green Gus"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAHd3dwcAAAB3d3d3dwcAcHd3d3d3dwBwd3d3d3d3AHd3d3d3d3cHd3d3d3d3dwd3d3d3d3d3B3d3d3d3d3cHd3d3d3d3dwd3d3d3d3d3B3d3d3d3d3cHcHd3d3d3dwBwd3d3d3d3AAB3d3d3dwcAAAB3d3cHAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "EnemyShot"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
